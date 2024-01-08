@@ -202,8 +202,7 @@
 }
 
 .coming-section {
-    width: 1600px;
-    height: 7335px;
+    /*  */
     display: inline-flex;
     text-align: left;
     /* justify-content: center; */
@@ -280,7 +279,7 @@
 .holi-title {
     display:block;
     text-align: center;
-    margin-top: 0px;
+    margin-top: 150px;
 }
 
 .funtion {
