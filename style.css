@@ -277,7 +277,7 @@
 }
 
 .holi-title {
-    display:block;
+    display: block;
     text-align: center;
     margin-top: 150px;
 }
@@ -321,16 +321,65 @@
     font-weight: 500;
     line-height: 32px;
 }
-.img-section{
-    display:flex;
+
+.img-section {
+    display: flex;
     padding-top: 100px;
     /* justify-content: space-around; */
-    background-image: url('image/Rectangle\ 1.png'), url('image/Rectangle\ 2.png') ;
+    background-image: url('image/Rectangle\ 1.png'), url('image/Rectangle\ 2.png');
     background-repeat: no-repeat;
-    background-position: 900px 105px,bottom;
+    background-position: 900px 105px, bottom;
     margin-right: 290px;
     margin-left: 290px;
 }
-.part-2{
+
+.part-2 {
     margin-left: 0px;
+}
+
+.pic-section{
+    margin-top: 150px;
+    margin-left: 290px;
+    margin-right: 290px;
+}
+
+.best-gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+
+.portfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+}
+
+.gift-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+.grid{
+    display: block;
+}
+.pic-part-1{
+    display: flex;
+    margin-top: 20px;
+}
+.pic{
+    margin-right: 20px;
 }
