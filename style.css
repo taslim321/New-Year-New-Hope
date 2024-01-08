@@ -68,6 +68,7 @@
     margin-right: auto;
 }
 
+
 .welcome-banner {
     display: flex;
     width: 1320px;
@@ -176,11 +177,12 @@
     line-height: 56px;
     /* 175% */
     text-transform: capitalize;
-    
+
 }
-.join{
+
+.join {
     margin-top: 0px;
-    padding:0px 0px 0px 5px ;
+    padding: 0px 0px 0px 5px;
 }
 
 .join-btn {
@@ -196,5 +198,140 @@
     background-color: #FF0000;
     border: none;
     border-radius: 8px;
-    
+
+}
+
+.coming-section {
+    width: 1600px;
+    height: 7335px;
+    display: inline-flex;
+    text-align: left;
+    /* justify-content: center; */
+    margin-left: 290px;
+    margin-right: 290px;
+    margin-top: 100px;
+}
+
+.c.sec {
+    margin-bottom: 0px;
+}
+
+.best-offer {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 0px;
+}
+
+.coming-soon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 0px;
+}
+
+.best-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.best-offer-pic {
+    justify-content: center;
+    text-align: center;
+    margin-left: 100px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 30px;
+}
+
+.year {
+    justify-content: right;
+    margin-left: 100px;
+}
+
+.yr {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.yr-details {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.holi-title {
+    display:block;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.funtion {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.holi {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.holiday {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.holi-description {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+.img-section{
+    display:flex;
+    padding-top: 100px;
+    /* justify-content: space-around; */
+    background-image: url('image/Rectangle\ 1.png'), url('image/Rectangle\ 2.png') ;
+    background-repeat: no-repeat;
+    background-position: 900px 105px,bottom;
+    margin-right: 290px;
+    margin-left: 290px;
+}
+.part-2{
+    margin-left: 0px;
 }
